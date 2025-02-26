@@ -29,7 +29,7 @@ To understand how iFood displays supermarkets and products, I used the **Inspect
 - Each supermarket has a **unique ID**.  
 
 🖼️ **Inspecting iFood’s website**  
-![Screenshot](./img/inspecionar_elemento.png)  
+![Screenshot](./img/inspect.png)  
 
 ---
 
