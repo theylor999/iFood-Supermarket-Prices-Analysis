@@ -70,15 +70,12 @@ After sending coordinates to iFood, I retrieved lists of supermarkets and collec
 I stored the data in **MySQL**, both locally and in **AWS**.  
 
 📊 **Database Stats:**  
-- **15M+ rows** collected.  
-- SQL queries for:  
-  - **Average price per state**.  
-  - **Price comparison between supermarkets**.  
-  - **Price distribution by category**.  
+- **15M+ rows** collected.
+- **3791 Supermarkets** collected.
 
 🖼️ **Database**
 ![Screenshot](./img/mysql_example.png)
-![Screenshot](./img/database_info.png)
+<img src="./img/database_info.png" width="800">
 
 ---
 
