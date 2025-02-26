@@ -1,4 +1,4 @@
-# 🛒 iFood Price Analysis - Data Science Project  
+# 🛒 iFood Supermarket Prices Analysis - Data Science Project  
 
 This repository documents my project on analyzing supermarket prices on iFood. From data collection and processing to analysis and visualization, I used web scraping, ETL techniques, databases, and data visualization tools.  
 
