@@ -87,14 +87,15 @@ I used **Python and Tableau** to create charts and understand price distribution
 ![Screenshot](./img/distribuição_corredor.png)  
 ![Screenshot](./img/distribuicao_precos.png)  
 ![Screenshot](./img/preco_medio_sp.png)  
-![Screenshot](./img/quantidade_mercados_estado.png)  
-The most expensive section is the alcoholic beverages section, which was expected since there are very high-price drinks. There are several outliers in all sections, which may be due to the fact that many supermarkets place bulk products, such as combo packs, outside the designated combo aisle. However, soon I will be able to filter this using machine learning. We can see that most products are priced between R$ 8.00 and R$ 20.00. I'm curious to see how these charts will look different in a few months.
-
-As we can see in the last chart, several states have very few supermarkets available on iFood, making it impossible to accurately analyze the true average prices in these markets using only iFood data. Therefore, I am developing a method to gather more supermarket data from these states, most likely by utilizing the official websites of the supermarkets. This will also allow me to compare their prices with those available on iFood.
+![Screenshot](./img/quantidade_mercados_estado.png) 
 
 ---
 
 ## 🎯 6. Conclusion  
+
+The most expensive section is the alcoholic beverages section, which was expected since there are very high-price drinks. There are several outliers in all sections, which may be due to the fact that many supermarkets place bulk products, such as combo packs, outside the designated combo aisle. However, soon I will be able to filter this using machine learning. We can see that most products are priced between R$ 8.00 and R$ 20.00. I'm curious to see how these charts will look different in a few months.
+
+As we can see in the last chart, several states have very few supermarkets available on iFood, making it impossible to accurately analyze the true average prices in these markets using only iFood data. Therefore, I am developing a method to gather more supermarket data from these states, most likely by utilizing the official websites of the supermarkets. This will also allow me to compare their prices with those available on iFood.
 
 This project demonstrated **web scraping, ETL, database management, and data visualization** techniques to analyze iFood prices.  
 
