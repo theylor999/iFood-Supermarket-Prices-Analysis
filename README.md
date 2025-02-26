@@ -28,7 +28,7 @@ To understand how iFood displays supermarkets and products, I used the **Inspect
 - The website displays available supermarkets based on customer distance and supermarket choices.  
 - Each supermarket has a **unique ID**.  
 
-🖼️ **Screenshot: Inspecting iFood’s website**  
+🖼️ **Inspecting iFood’s website**  
 ![Screenshot](./img/inspecionar_elemento.png)  
 
 ---
@@ -38,9 +38,9 @@ To understand how iFood displays supermarkets and products, I used the **Inspect
 To access supermarkets throughout Brazil, I needed coordinates for all cities. Larger cities required multiple coordinates.  
 
 📂 **Result:**  
-- A CSV file with **X rows**, covering a large part of Brazil.  
+- A CSV file with **7267 rows**, covering a large part of Brazil.  
 
-🖼️ **Screenshot: Generated coordinates CSV**  
+🖼️ **Generated coordinates CSV**  
 ![Screenshot](./img/coordenadas.png)  
 
 ---
@@ -60,7 +60,7 @@ After sending coordinates to iFood, I retrieved lists of supermarkets and collec
   - **Price**  
   - **Supermarket ID**  
 
-🖼️ **Screenshot: Raw vs. processed data**  
+🖼️ **Raw vs. processed data**  
 ![Screenshot](./img/datas_comparison.png)  
 
 ---
@@ -76,8 +76,9 @@ I stored the data in **MySQL**, both locally and in **AWS**.
   - **Price comparison between supermarkets**.  
   - **Price distribution by category**.  
 
-🖼️ **Screenshot: Database infos**  
-![Screenshot](./img/database_infos.png)  
+🖼️ **Database**
+![Screenshot](./img/mysql_example.png)
+![Screenshot](./img/database_infos.png)
 
 ---
 
