@@ -78,7 +78,7 @@ I stored the data in **MySQL**, both locally and in **AWS**.
 
 🖼️ **Database**
 ![Screenshot](./img/mysql_example.png)
-![Screenshot](./img/database_infos.png)
+![Screenshot](./img/database_info.png)
 
 ---
 
