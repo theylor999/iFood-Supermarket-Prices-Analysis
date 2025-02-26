@@ -83,7 +83,7 @@ I stored the data in **MySQL**, both locally and in **AWS**.
 
 I used **Python and Tableau** to create charts and understand price distribution.  
 
-🖼️ **Example of visualizations I created**  
+🖼️ **Examples of visualizations I created**  
 ![Screenshot](./img/distribuição_corredor.png)  
 ![Screenshot](./img/distribuicao_precos.png)  
 ![Screenshot](./img/preco_medio_sp.png)  
