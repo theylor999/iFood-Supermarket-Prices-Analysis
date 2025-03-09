@@ -93,7 +93,7 @@ I used **Python and Tableau** to create charts and understand price distribution
 
 ## 🎯 6. Conclusion  
 
-I believe iFood could invest more in expanding its network of supermarkets by adding establishments from different states. Currently, there are regions with only 1, 3, or even 0 supermarkets registered, which limits the options for consumers. Additionally, the product registration could be better organized. Many items appear in unexpected categories, such as combos that are placed in the wrong aisles, making it harder for users to search and navigate. These improvements could provide a smoother and more comprehensive experience for consumers.
+I believe iFood could invest more in expanding its network of supermarkets by adding establishments from different states. Currently, there are regions with only 1, 3, or even 0 supermarkets registered, which limits the options for consumers. Additionally, the product registration could be better organized. Many items appear in unexpected categories, such as combos that are placed in the wrong sections, making it harder for users to search and navigate. These improvements could provide a smoother and more comprehensive experience for consumers.
 
 The most expensive section is the alcoholic beverages section, which was expected since there are very high-price drinks. There are several outliers in all sections, which may be due to the fact that many supermarkets place bulk products, such as combo packs, outside the designated combo aisle. However, soon I will be able to filter this using machine learning. We can see that most products are priced between R$ 8.00 and R$ 20.00. I'm curious to see how these charts will look different in a few months.
 
